@@ -1,0 +1,50 @@
+{
+    "name": "PredictiveIntent",
+    "description": "This website is for sale! predictiveintent.com is your first and best source for all of the information you\u2019re looking for. From general topics to more of what you would expect to find here, predictiveintent.com has it all. We hope you find what you ar...",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/639-predictiveintent.jpg",
+    "tags": [
+        "have api",
+        "machine learning",
+        "semantic",
+        "semantic analysis"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/predictiveintent\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "PredictiveIntent",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/639-predictiveintent.jpg",
+            "humanURL": "http:\/\/www.predictiveintent.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/predictiveintent-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Website",
+            "url": "http:\/\/www.predictiveintent.com"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/predictiveintent"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/predictiveintent"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/TweetIntent"
+        }
+    ]
+}
